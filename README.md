@@ -25,7 +25,7 @@ HTML, CSS and Javascript
 
 ## Feedback
 
-This web-app was made with a tutorial from Jonah Lawrence • Dev Pro Tips. You can find it on link to tutorial: (https://www.youtube.com/watch?v=WZNG8UomjSI) This tutorial was very educative for me and in the future I will definitely use the unsplash api again.
+This web-app was made with a tutorial from Jonah Lawrence • Dev Pro Tips. You can find it on: (https://www.youtube.com/watch?v=WZNG8UomjSI) This tutorial was very educative for me and in the future I will definitely use the unsplash api again.
 <br><br>
 Feel free to play around with it and if you have any feedback, let me know
 Would be nice to learn from it.
